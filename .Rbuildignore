@@ -18,3 +18,7 @@ sticker\.png
 ^CRAN-RELEASE$
 ^CRAN-SUBMISSION$
 ^\.github$
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
